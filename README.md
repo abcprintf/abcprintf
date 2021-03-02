@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Reactjs, Vuejs
+- 📫 How to reach me: [Twitter](https://twitter.com/abcprintf), [LinkedIn](https://www.linkedin.com/in/abcprintf/) or [abcprintf](https://abcprintf.com/)
 
 <!--
 **abcprintf/abcprintf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
