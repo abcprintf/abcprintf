@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Reactjs, Vuejs
+
+[![wakatime](https://wakatime.com/badge/user/340cc8c5-8699-4428-afd9-d757d7a7e808.svg)](https://wakatime.com/@340cc8c5-8699-4428-afd9-d757d7a7e808)
+
+- 🌱 I’m currently learning Vuejs, Reactjs
 - 📫 How to reach me: [Twitter](https://twitter.com/abcprintf), [LinkedIn](https://www.linkedin.com/in/abcprintf/) or [abcprintf](https://abcprintf.com/)
 
 <!--
