@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abcprintf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abcprintf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abcprintf) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abcprintf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abcprintf-story) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abcprintf) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abcprintf&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
