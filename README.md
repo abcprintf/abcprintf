@@ -19,6 +19,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![Update Gist Weekly Development](https://github.com/abcprintf/waka-box/actions/workflows/schedule.yml/badge.svg)](https://github.com/abcprintf/waka-box/actions/workflows/schedule.yml)
+
 
 <!-- OLD VERSION
 ### Hi there 👋
